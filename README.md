@@ -1,4 +1,4 @@
-# Coding Challanges Solutions in Odin
+# Coding Challenges Solutions in Odin
 A collection of solutions to John Cricket's Coding Challenges https://codingchallenges.fyi/challenges/intro written in Odin
 
 ## Testing the examples
