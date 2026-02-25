@@ -1,3 +1,5 @@
+// Build your own top. See https://codingchallenges.fyi/challenges/challenge-top
+
 package cctop
 
 import "core:fmt"
